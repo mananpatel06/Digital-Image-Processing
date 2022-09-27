@@ -28,7 +28,7 @@ All Image Processing method code.
 
 6. Write a MATLAB Script for Image Restoration.
 
-7. Write a MATLAB Script for Following Neighbourhood Operations. (Linear Filtering) (Non Linear Filtering) (Non Linear Filtering Min Filter) (Non Linear Filtering Max Filter).
+7. Write a MATLAB Script for Following Neighbourhood Operations. [(Linear Filtering) (Non Linear Filtering) (Non Linear Filtering Min Filter) (Non Linear Filtering Max Filter)].
 
 8. Write a MATLAB Script for Fourier Transform.
 
