@@ -2,6 +2,8 @@
 
 All Image Processing method code.
 
+Run Code In Matlab.
+
 1. To demonstrate working of Basic Image Processing Functions.
 
 2. Write a MATLAB Script to demonstrate working of Image Arithmetic. 
