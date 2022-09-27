@@ -1,6 +1,6 @@
 # Digital-Image-Processing
 
-Image Processing all method code.
+Image Processing algoritms.
 
 Run Code In Matlab.
 
