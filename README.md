@@ -10,19 +10,19 @@ All Image Processing method code.
 
 4) Write a MATLAB Scripts for the following Point Processing Operation 
 
-  4.1) Image Negative. 
+    4.1) Image Negative. 
 
-  4.2) Image Thresholding. 
+    4.2) Image Thresholding. 
   
-  4.3) Image Brightness & Contrast Modification. 
+    4.3) Image Brightness & Contrast Modification. 
   
-  4.4) Log Transformation. 
+    4.4) Log Transformation. 
   
-  4.5) Power Law Transformation. 
+    4.5) Power Law Transformation. 
   
-  4.6) Contrast Stretching. 
+    4.6) Contrast Stretching. 
   
-  4.7) Intensity Slicing and Bit Plane Slicing. 
+    4.7) Intensity Slicing and Bit Plane Slicing. 
   
 5) Write a MATLAB Script for Image Histogram Equalization (With and Without histeq() function).
 
